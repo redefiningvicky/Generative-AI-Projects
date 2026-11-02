@@ -4,7 +4,7 @@ Welcome to my generative AI projects! <p>
 • [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
 
 ---
-# 🗨️ Gamma <br>
+## 🗨️ Gamma <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
