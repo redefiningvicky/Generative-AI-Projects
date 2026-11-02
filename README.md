@@ -1,4 +1,4 @@
-# 🔮 Vicky's Generative AI Projects
+# 🔮 Generative AI Projects
 Welcome to my generative AI projects! <p>
 ## 📑 Table of Contents <br>
 • [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
