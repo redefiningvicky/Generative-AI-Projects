@@ -17,6 +17,6 @@ Welcome to my generative AI projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| []() | Oct 2026  | Gemini | Gemini   |
+| []() | Nov 2026  | Gemini | Gemini   |
 
 ---
