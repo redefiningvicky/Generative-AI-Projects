@@ -17,6 +17,6 @@ Welcome to my generative AI projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| []() | Nov 2026  | Gemini | Gemini   |
+| [🌖 MISSION: PYTHON](https://github.com/redefiningvicky/MISSION-PYTHON) | Nov 2026  | Gemini, Claude | Gemini and Claude were used to design and generate a NASA-inspired countdown lock screen and cover image.    |
 
 ---
