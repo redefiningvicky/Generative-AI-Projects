@@ -1,8 +1,8 @@
 # 🔮 Generative AI Projects
 Welcome to my generative AI projects! <p>
 ## 📑 Table of Contents <br>
-• [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
-• [Gemini](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gemini-)  <p>
+• [Gamma](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gamma-)  <p>
+• [Gemini](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gemini-)  <p>
 
 ---
 ## 🗨️ Gamma <br>
