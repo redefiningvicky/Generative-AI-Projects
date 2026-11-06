@@ -9,7 +9,7 @@ Welcome to my generative AI projects! <p>
 ## ֎ ChatGPT <br>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🗓️ ChatGPT Response Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline) | Nov 2026  | ChatGPT | ChatGPT 5 and ChatGPT 6 Astra were used as comparison for responses about awareness and consciousness.    |
+| [🗓️ ChatGPT Response Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline) | Nov 2026  | ChatGPT | ChatGPT 5 and ChatGPT 6 Astra were compared for responses about awareness and consciousness.    |
 
 ---
 ## 🗨️ Gamma <br>
