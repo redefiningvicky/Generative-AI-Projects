@@ -1,12 +1,18 @@
 # 🔮 Generative AI Projects
 Welcome to my generative AI projects! <p>
 ## 📑 Table of Contents <br>
+• [ChatGPT](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-chatgpt-)  <p>
 • [Gamma](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gamma-)  <p>
 • [Gemini](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gemini-)  <p>
 
 ---
-## 🗨️ Gamma <br>
+## ֎ ChatGPT <br>
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [# 🗓️ ChatGPT Response Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline) | Nov 2026  | ChatGPT | ChatGPT    |
 
+---
+## 🗨️ Gamma <br>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [👥 Thinking & Feeling: Turing Meets Angelou](https://github.com/redefiningvicky/Thinking-and-Feeling) | Oct 2026  | ChatGPT, Gamma | ChatGPT and Gamma were used to develop prompts and create visual presentations exploring machine thinking and human feeling through the works of Alan Turing and Maya Angelou.   |
@@ -14,7 +20,6 @@ Welcome to my generative AI projects! <p>
 
 ---
 ## ♊ Gemini <br>
-
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🌖 MISSION: PYTHON](https://github.com/redefiningvicky/MISSION-PYTHON) | Nov 2026  | Gemini, Claude | Gemini and Claude were used to design and generate a NASA-inspired countdown lock screen and cover image.    |
