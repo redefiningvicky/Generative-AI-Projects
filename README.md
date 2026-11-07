@@ -42,7 +42,7 @@
 <p>
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
     View Project
-    </a>
+  </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.png">
     View PNG
@@ -95,6 +95,8 @@
     Angelou PDF
   </a>
 </p>
+
+<br>
 
 <h3>
   🦋
@@ -161,6 +163,7 @@
   </a>
 </p>
 
+<br>
 
 <h3>
   ⚪
