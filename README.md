@@ -75,25 +75,17 @@
 </p>
 
 <p>
-  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling">
-    View Project
-  </a>
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling">View Project</a>
   &nbsp; • &nbsp;
-  <a href="https://alan-turing-presentation-icz9zbd.gamma.site/">
-    View Turing Slides
-  </a>
+  <strong>Alan Turing:</strong>
+  <a href="https://alan-turing-presentation-icz9zbd.gamma.site/">View Slides</a> •
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing.pdf">View PDF</a> •
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing.pptx">View PPTX</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing.pdf">
-    View Turing PDF
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://maya-angelou-presentatio-92lvma4.gamma.site/">
-    View Angelou Slides
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pdf">
-    View Angelou PDF
-  </a>
+  <strong>Maya Angelou:</strong>
+  <a href="https://maya-angelou-presentatio-92lvma4.gamma.site/">View Slides</a> •
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pdf">View PDF</a> •
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pptx">View PPTX</a>
 </p>
 
 <br>
