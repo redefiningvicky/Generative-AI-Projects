@@ -42,14 +42,14 @@
 <p>
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
     View Project
+    </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.png">
+    View PNG
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.pdf">
     View PDF
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.png">
-    View Timeline
   </a>
 </p>
 
@@ -161,6 +161,7 @@
   </a>
 </p>
 
+
 <h3>
   ⚪
   <a href="https://github.com/redefiningvicky/No-Hope-Hope">
@@ -182,8 +183,20 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/No-Hope-Hope/tree/main/No_Hope_Hope">
-    View Artwork
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_01.jpg">
+    Image 1
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_02.jpg">
+    Image 2
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_03.jpg">
+    Image 3
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_04.jpg">
+    Image 4
   </a>
 </p>
 
