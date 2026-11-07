@@ -80,19 +80,19 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://alan-turing-presentation-icz9zbd.gamma.site/">
-    Turing Slides
+    View Turing Slides
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing.pdf">
-    Turing PDF
+    View Turing PDF
   </a>
   &nbsp; • &nbsp;
   <a href="https://maya-angelou-presentatio-92lvma4.gamma.site/">
-    Angelou Slides
+    View Angelou Slides
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pdf">
-    Angelou PDF
+    View Angelou PDF
   </a>
 </p>
 
@@ -187,19 +187,19 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_01.jpg">
-    Image 1
+    View Image 1
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_02.jpg">
-    Image 2
+    View Image 2
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_03.jpg">
-    Image 3
+    View Image 3
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/No-Hope-Hope/blob/main/No_Hope_Hope/No_Hope_Hope_04.jpg">
-    Image 4
+    View Image 4
   </a>
 </p>
 
