@@ -1,28 +1,200 @@
-# 🔮 Generative AI Projects
-Welcome to my generative AI projects! <p>
-## 📑 Table of Contents <br>
-• [ChatGPT](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-chatgpt-)  <p>
-• [Gamma](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gamma-)  <p>
-• [Gemini](https://github.com/redefiningvicky/Generative-AI-Projects?tab=readme-ov-file#-gemini-)  <p>
 
----
-## ֎ ChatGPT <br>
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🗓️ ChatGPT Response Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline) | Nov 2026  | ChatGPT | ChatGPT 5 and ChatGPT 6 Astra were compared for responses about awareness and consciousness.    |
+<div align="center">
 
----
-## 🗨️ Gamma <br>
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [👥 Thinking & Feeling: Turing Meets Angelou](https://github.com/redefiningvicky/Thinking-and-Feeling) | Oct 2026  | ChatGPT, Gamma | ChatGPT and Gamma were used to develop prompts and create visual presentations exploring machine thinking and human feeling through the works of Alan Turing and Maya Angelou.   |
-| [🦋 Woolf Blindspot Test](https://github.com/redefiningvicky/Woolf-Blindspot-Test) | Nov 2026  | Gemini, Gamma | Gemini and Gamma were used to generate a prompt and visual presentations for Virginia Woolf's "The Death of the Moth," serving as a blindspot test on AI storytelling.   |
+  <h1>🔮 Generative AI Projects</h1>
 
----
-## ♊ Gemini <br>
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🌖 MISSION: PYTHON](https://github.com/redefiningvicky/MISSION-PYTHON) | Nov 2026  | Gemini, Claude | Gemini and Claude were used to design and generate a NASA-inspired countdown lock screen and cover image.    |
-| [⚪ No Hope, Hope](https://github.com/redefiningvicky/No-Hope-Hope) | Nov 2026  | Gemini | Gemini was used to paint a dichotomy of an elderly Chinese woman's feelings at the end of her life.    |
+  <p>
+    Exploring generative models and AI storytelling.
+  </p>
 
----
+</div>
+
+<hr>
+
+<h2>📑 Table of Contents</h2>
+
+<ul>
+  <li><a href="#chatgpt">ChatGPT</a></li>
+  <li><a href="#gamma">Gamma</a></li>
+  <li><a href="#gemini">Gemini</a></li>
+</ul>
+
+<hr>
+
+<h2 id="chatgpt">֎ ChatGPT</h2>
+
+<h3>
+  🗓️
+  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
+    ChatGPT Response Timeline
+  </a>
+</h3>
+
+<p>
+  A visual timeline comparing ChatGPT 5 and ChatGPT 6
+  Astra responses about awareness and consciousness.
+</p>
+
+<p>
+  <sub>November 2026 · ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.pdf">
+    View PDF
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/main/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.png">
+    View Timeline
+  </a>
+</p>
+
+<hr>
+
+<h2 id="gamma">🗨️ Gamma</h2>
+
+<h3>
+  👥
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling">
+    Thinking &amp; Feeling: Turing Meets Angelou
+  </a>
+</h3>
+
+<p>
+  Two AI-assisted presentations exploring machine
+  thinking and human feeling through Alan Turing
+  and Maya Angelou.
+</p>
+
+<p>
+  <sub>October 2026 · ChatGPT, Gamma</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://alan-turing-presentation-icz9zbd.gamma.site/">
+    Turing Slides
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Alan_Turing/Alan_Turing.pdf">
+    Turing PDF
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://maya-angelou-presentatio-92lvma4.gamma.site/">
+    Angelou Slides
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/main/Maya_Angelou/Maya_Angelou.pdf">
+    Angelou PDF
+  </a>
+</p>
+
+<h3>
+  🦋
+  <a href="https://github.com/redefiningvicky/Woolf-Blindspot-Test">
+    Woolf Blindspot Test
+  </a>
+</h3>
+
+<p>
+  An AI storytelling experiment examining how
+  visual presentations interpret Virginia Woolf's
+  "The Death of the Moth."
+</p>
+
+<p>
+  <sub>November 2026 · Gemini, Gamma</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Woolf-Blindspot-Test">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://virginia-woolf-s9ueo1w.gamma.site/">
+    View Slides
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Woolf-Blindspot-Test/blob/main/Virginia_Woolf/Virginia_Woolf.pdf">
+    View PDF
+  </a>
+</p>
+
+<hr>
+
+<h2 id="gemini">♊ Gemini</h2>
+
+<h3>
+  🌖
+  <a href="https://github.com/redefiningvicky/MISSION-PYTHON">
+    MISSION: PYTHON
+  </a>
+</h3>
+
+<p>
+  A NASA-inspired countdown lock screen
+  tracking three Python project milestones.
+</p>
+
+<p>
+  <sub>November 2026 · Gemini, Claude</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/MISSION-PYTHON">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/Mission_Python/Mission_Python_Lockscreen.jpg">
+    View Lock Screen
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/MISSION-PYTHON/blob/main/Mission_Python/Mission_Python_Cover.jpg">
+    View Cover
+  </a>
+</p>
+
+<h3>
+  ⚪
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope">
+    No Hope, Hope
+  </a>
+</h3>
+
+<p>
+  Contrasting AI-generated impasto-style paintings
+  exploring sorrow and peace at the end of life.
+</p>
+
+<p>
+  <sub>November 2026 · Gemini</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/No-Hope-Hope/tree/main/No_Hope_Hope">
+    View Artwork
+  </a>
+</p>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
